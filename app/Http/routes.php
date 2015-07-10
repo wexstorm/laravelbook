@@ -21,3 +21,5 @@ Route::controller('messages', 'MessageController');
 
 Route::controller('login', 'LoginController');
 
+// Toller Kommentar!
+
