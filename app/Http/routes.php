@@ -11,7 +11,6 @@
 |
 */
 
-// TEST
 
 Route::get('/', function () {
     return view('welcome');
@@ -22,6 +21,4 @@ Route::controller('posts', 'PostController');
 Route::controller('messages', 'MessageController');
 
 Route::controller('login', 'LoginController');
-
-// Toller Kommentar!
 
